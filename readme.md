@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 
-I am a results-driven **Full Stack Software Engineer** with over three years of experience in building scalable, high-performance web applications. I specialize in **Java**, **Spring Boot**, **Angular**, and **Microservices** architectures, delivering robust, secure, and maintainable solutions. My track record includes consistently exceeding client expectations, optimizing processes, and driving innovation with cutting-edge technology. I am committed to clean, efficient code and always striving for operational excellence.
+I am a results-driven **Full Stack Software Engineer** with over 11 years of experience in building scalable, high-performance web applications. I specialize in **Java**, **Spring Boot**, **Angular**, and **Microservices** architectures, delivering robust, secure, and maintainable solutions. My track record includes consistently exceeding client expectations, optimizing processes, and driving innovation with cutting-edge technology. I am committed to clean, efficient code and always striving for operational excellence.
 
 ---
 
