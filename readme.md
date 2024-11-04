@@ -18,3 +18,10 @@ I am a results-driven **Full Stack Software Engineer** with over three years of 
 - **Tools & Technologies:** Docker, GitHub Actions, CI/CD, AWS, RESTful APIs, Agile/Scrum  
 
 ---
+---
+
+## 🎓 Education  
+
+**JNTU University**  
+*Master of Computer Science*  
+*2011*  
